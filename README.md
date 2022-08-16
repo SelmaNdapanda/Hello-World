@@ -8,7 +8,14 @@
 - HTML
 - CSS
 
-## Authors
+## Get Started
+
+To get a local copy up and running follow these simple steps:
+
+1. Clone the Repo or Download the Zip file
+2. Run the live server or simply open index.html with your browser.
+
+## Author
 
 👤 **Selma Ndapanda Hamutenya**
 
